@@ -42,3 +42,5 @@ MovieLens data set. It’s a subset of 100,000 real movie ratings from real peop
 - Surprise GitHub : https://github.com/NicolasHug/Surprise
 
 ## Thanks for reading! 🙏 
+
+![alt text](https://yagoub.net/github_img/RecommendationSystemEnd.png)
